@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @adityaunik
-- 👀 I’m interested in web development,blockchain.
+# 👋 Hi, I’m @adityaunik
+## About me
+-  👀 I’m interested in web development,blockchain.
 - 🌱 I’m currently learning java,front end.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adtgtm903@gmail.com
