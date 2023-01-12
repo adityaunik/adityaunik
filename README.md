@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @adityaunik
 ## About me
--  👀 I’m interested in Android development,blockchain.
+-  👀 I’m interested in blockchain.
 - 🌱 I’m currently learning java,Android development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on android project...
 - 📫 How to reach me adtgtm903@gmail.com
 
 <!---
