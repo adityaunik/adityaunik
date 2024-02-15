@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @adityaunik
 ## About me
--  👀 I’m interested in blockchain, CyberSecurity.
-- 🌱 I’m currently learning Kotlin, Jetpack Compose.
-- 💞️ I’m looking to collaborate on android project (Java)...
+-  👀 I’m interested in blockchain, Finance.
+- 🌱 I’m currently learning Kotlin Multi Platform.
+- 💞️ I’m looking to collaborate on android project (Kotlin)...
 - 📫 How to reach me adtgtm903@gmail.com
 
 <!---
